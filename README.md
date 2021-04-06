@@ -13,6 +13,7 @@ Estudante Ciência da computação na UFC(Universidade Federal do Ceará - Campu
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/carlos-matheus-dev)
+* [currículo](https://github.com/DuplamenteH/Portfolio/blob/master/Currículo%20Carlos%20Matheus.pdf)
 
 
 ## Projetos:
