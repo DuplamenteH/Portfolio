@@ -7,9 +7,9 @@
 # Carlos Matheus Rodrigues Martins
 <sub>Cientista de Dados, Desenvolvedor</sub>
 
-Estudante Ciência da computação na UFC(Universidade Federal do Ceará - Campus de Russas), tendo atuações como Diretor de assuntos Estudantis do Centro Academico Ada Lovelace (CAAL). Sou um jovem com o sonho de ser um grande cientista de dados influente na área e para isso venho me preparando fazendo cursos, participando de bootcamps , sendo bastante autodidata para ir atras de informações e conteúdos.
+Estudante de Engenharia de Software, ex estudante Ciência da computação na UFC (Universidade Federal do Ceará - Campus de Russas), tendo atuações como Diretor de assuntos Estudantis do Centro Academico Ada Lovelace (CAAL) centro academico do curso de Ciência da computação. Sou um jovem com o sonho de ser um grande cientista de dados influente na área e para isso venho me preparando fazendo cursos, participando de bootcamps , sendo bastante autodidata para ir atras de informações e conteúdos.
 
-**Background in:** Python, Machine Learning, Data Science.
+**Background in:** Python, Machine Learning, Data Science, keras, tensorflow, pytorch, pyspark, SQL, pandas.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/carlos-matheus-dev)
