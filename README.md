@@ -27,6 +27,7 @@ Veja alguns do meus projetos:
 * **Separação de filmes por gêneros :** https://url.gratis/PUOYw
 * **Filtro de fotos feito com OPENCV:** https://url.gratis/0Mwl4
 * **Series Temporais com Prophet :** https://url.gratis/ubCLP
+* **Evasão de clientes :** [artigo e código](https://portfolio.stacktecnologias.com/cmatheus/19/)
 ---
 
 
