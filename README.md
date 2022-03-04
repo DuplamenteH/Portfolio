@@ -13,7 +13,7 @@ Estudante de Engenharia de Software, ex estudante Ciência da computação na UF
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/carlos-matheus-dev)
-* [currículo](https://github.com/DuplamenteH/DuplamenteH/blob/master/Currículo.pdf)
+* [currículo](https://github.com/DuplamenteH/DuplamenteH/blob/master/Carlos%20Matheus.pdf)
 
 
 ## Projetos:
