@@ -28,6 +28,7 @@ Veja alguns do meus projetos:
 * **Filtro de fotos feito com OPENCV:** https://url.gratis/0Mwl4
 * **Series Temporais com Prophet :** https://url.gratis/ubCLP
 * **Evasão de clientes :** [artigo e código](https://portfolio.stacktecnologias.com/cmatheus/19/)
+* **Detecção de fraude no cartão de credito:** [artigo](https://medium.com/@cmatheusrm/data-science-aplicado-a-detecção-de-fraudes-em-compras-no-cartão-de-crédito-b7ec507e9ec2) [codigo](https://github.com/cmatheusIA/machine-learning-projects/tree/main/Credit_card_fraud_project)
 ---
 
 
