@@ -17,7 +17,7 @@ Estudante de Engenharia de Software, ex estudante Ciência da computação na UF
 
 ## Projetos:
 Veja alguns do meus projetos:
-
+**Click em *ir pra o novo link***
 * **Classificação de roupas usando DeepLearning:** https://url.gratis/Th4yc
 * **Previsão do consumo de Cerveja de um esbelecimento:** https://url.gratis/BWgVh
 * **Detecção de Fraudes em compras:** https://url.gratis/TNocD
