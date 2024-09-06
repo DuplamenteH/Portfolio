@@ -7,7 +7,7 @@
 # Carlos Matheus Rodrigues Martins
 <sub>Cientista de Dados, Desenvolvedor</sub>
 
-Estudante de Engenharia de Software, ex estudante Ciência da computação na UFC (Universidade Federal do Ceará - Campus de Russas), tendo atuações como Diretor de assuntos Estudantis do Centro Academico Ada Lovelace (CAAL) centro academico do curso de Ciência da computação. Sou um jovem com o sonho de ser um grande cientista de dados influente na área e para isso venho me preparando fazendo cursos, participando de bootcamps , sendo bastante autodidata para ir atras de informações e conteúdos.
+Estudante de Engenharia de Software, tendo atuações como Diretor de assuntos Estudantis do Centro Academico Ada Lovelace (CAAL) centro academico do curso de Ciência da computação. Sou um jovem com o sonho de ser um grande cientista de dados influente na área e para isso venho me preparando fazendo cursos, participando de bootcamps , sendo bastante autodidata para ir atras de informações e conteúdos.
 
 **Background in:** Python, Machine Learning, Data Science, keras, tensorflow, pytorch, pyspark, SQL, pandas.
 
@@ -18,17 +18,17 @@ Estudante de Engenharia de Software, ex estudante Ciência da computação na UF
 ## Projetos:
 Veja alguns do meus projetos:
 **Click em *ir pra o novo link***
-* **Classificação de roupas usando DeepLearning:** https://url.gratis/Th4yc
-* **Previsão do consumo de Cerveja de um esbelecimento:** https://url.gratis/BWgVh
-* **Detecção de Fraudes em compras:** https://url.gratis/TNocD
-* **Prevendo valores de imoveis:** https://url.gratis/rGVB9
-* **Análise de sentimentos em uma base de dados do IMBD:** https://url.gratis/dvByw
-* **Separação de filmes por gêneros :** https://url.gratis/PUOYw
-* **Filtro de fotos feito com OPENCV:** https://url.gratis/0Mwl4
-* **Series Temporais com Prophet :** https://url.gratis/ubCLP
-* **Evasão de clientes :** [artigo e código](https://portfolio.stacktecnologias.com/cmatheus/19/)
+* **Classificação de roupas usando DeepLearning:** [codigo](https://github.com/cmatheusIA/DeepLearning/blob/main/Classifica%C3%A7%C3%A3o_de_roupas_Usando_DL.ipynb)
+* **Previsão do consumo de Cerveja de um esbelecimento:**  [codigo](https://github.com/cmatheusIA/Ds_estudos/blob/master/Regress%C3%A3o_Linear.ipynb)
+* **Detecção de Fraudes em compras:** [codigo](https://github.com/cmatheusIA/Ds_estudos/blob/master/detec%C3%A7%C3%A3o_de_fraude.ipynb)
+* **Prevendo valores de imoveis:** [codigo](https://github.com/cmatheusIA/Ds_estudos/blob/master/Regress%C3%A3o_Linear_II.ipynb)
+* **Análise de sentimentos em uma base de dados do IMBD:** [codigo](https://github.com/cmatheusIA/Machine-Learning-Estudo/blob/master/NLP.ipynb)
+* **Separação de filmes por gêneros :** [codigo](https://github.com/cmatheusIA/Machine-Learning-Estudo/blob/master/Projeto1_NS.ipynb)
+* **Filtro de fotos feito com OPENCV:** [codigo](https://github.com/cmatheusIA/filtrosOPENCV)
+* **Series Temporais com Prophet :** [codigo](https://github.com/cmatheusIA/Ds_estudos/blob/master/Series_Temporais_com_Prophet.ipynb)
+* **Evasão de clientes :** [código](https://github.com/cmatheusIA/machine-learning-projects)
 * **Detecção de fraude no cartão de credito:** [artigo](https://medium.com/@cmatheusrm/data-science-aplicado-a-detecção-de-fraudes-em-compras-no-cartão-de-crédito-b7ec507e9ec2) [codigo](https://github.com/cmatheusIA/machine-learning-projects/tree/main/Credit_card_fraud_project)
-* **Detecção de fake news (uma prova de conceito):** [projeto](https://github.com/atlantico-academy/fake-news-rating)
+* **Detecção de fake news (POC):** [projeto](https://github.com/atlantico-academy/fake-news-rating)
 ---
 
 
